@@ -1,0 +1,37 @@
+[
+    {
+        "title": "New-flow based DDoS attacks in SDN: Taxonomy, rationales, and research challenges", 
+        "author": "Maninder PalSingh",
+        "create_at": "2020.3",
+        "note": "- 다양한 이점을 제공하는 SDN의 아키텍처에 의해 노출되고 새로운 흐름 기반 DDoS 공격에 의해 활용되는 보안 취약점 분류",
+        "name": "SDN_Attack_00"
+    },
+    {
+        "title": "A trust management framework for Software Defined Network (SDN) controller and network applications", 
+        "author": "Aliyu Lawal",
+        "create_at": "2020.11",
+        "note": "- SDN 컨트롤러가 다양한 네트워크 어플리케이션을 인증할 수 있는 토큰 기반 인증 방법\n- 빌리프 학습 모델인 주관적 논리 추리(SLR : Subjective Logic Reasoning)를 기반 컨트롤러와 네트워크 어플리케이션 간의 신뢰를 평가하는 새로운 방법 소개\n- 컨트롤러와 네트워크 어플리케이션 간 존재하는 위협 완화",
+        "name": "SDN_8021X_00"
+    },
+    {   
+        "title": "Devolving IEEE 802.1X authentication capability to data plane in software-defined networking (SDN) architecture", 
+        "author": "Kamal Benzekki",
+        "create_at": "2016.8",
+        "note": "- IEEE 802.1x 포트 기반 인증을 통한 보안 SDN 아키텍처",
+        "name": "SDN_8021X_00"
+    }, 
+    {   
+        "title": "소프트웨어 정의 경계의 단일 패킷 인증 및 네트워크 접근통제 보안관리 개선", 
+        "author": "정진교 / 전남대학교",
+        "create_at": "2019.12",
+        "note": "",
+        "name": "SDP_SPA_00"
+    }, 
+    {   
+        "title": "Build Security Into Your Network’s DNA: The Zero Trust Network Architecture", 
+        "author": "John Kindervag",
+        "create_at": "2010.11",
+        "note": "- Zero-Trust 라는 용어를 처음 사용한 보고서",
+        "name": "Zero_Trust_00"
+    }
+]
