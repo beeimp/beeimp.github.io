@@ -7,28 +7,6 @@
     <title>영현&지윤 결혼합니다.</title>
 </head>
 <body>
-    <!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <title>Notion 이미지 모음</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-    }
-    .gallery {
-      display: flex;
-      flex-direction: column;
-    }
-    .gallery img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-  </style>
-</head>
-<body>
   <div class="gallery">
     <img src="https://beeimp.notion.site/image/attachment%3Ada15d5df-2b36-4ce7-bea7-89564857e0e3%3Aimage.png?table=block&id=2b9cb8bd-acb4-80f4-962f-c135339c0da2&spaceId=5a8bd33d-2fac-4443-8fc7-2f22dec1524d&width=1270&userId=&cache=v2" alt="이미지1">
     <img src="https://beeimp.notion.site/image/attachment%3Adf471960-c4f0-412b-8fb8-db95207140cf%3Aimage.png?table=block&id=2b9cb8bd-acb4-800d-8ea4-ccd21ec213fc&spaceId=5a8bd33d-2fac-4443-8fc7-2f22dec1524d&width=1270&userId=&cache=v2" alt="이미지2">
@@ -44,5 +22,11 @@
     <img src="https://beeimp.notion.site/image/attachment%3A91720f6f-20a0-47f5-85fa-a6c3ad2bdd52%3Aimage.png?table=block&id=2b9cb8bd-acb4-8007-94ec-d507fd35b447&spaceId=5a8bd33d-2fac-4443-8fc7-2f22dec1524d&width=1270&userId=&cache=v2" alt="이미지12">
     <img src="https://beeimp.notion.site/image/attachment%3A2ea2fa2a-03ec-43c4-b59d-ff4445489874%3Aimage.png?table=block&id=2b9cb8bd-acb4-8041-8eee-e567fdf7ac0f&spaceId=5a8bd33d-2fac-4443-8fc7-2f22dec1524d&width=1270&userId=&cache=v2" alt="이미지13">
   </div>
+  <script>
+    // 오른쪽 버튼 방지
+    document.addEventListener("contextmenu", function(event) {
+      event.preventDefault();
+    });
+  </script>
 </body>
 </html>
